@@ -6,6 +6,8 @@ public class CreateProductTest {
 	@Test(groups="SmokeTest")
 	public void createProduct() {
 		System.out.println("Product created");
+		
+		System.out.println("product modified");
 	}
 
 }
