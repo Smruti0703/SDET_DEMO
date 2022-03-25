@@ -8,6 +8,8 @@ public class CreateProductTest {
 		System.out.println("Product created");
 		
 		System.out.println("product modified");
+		System.out.println("product deleted");
 	}
 
+	
 }
