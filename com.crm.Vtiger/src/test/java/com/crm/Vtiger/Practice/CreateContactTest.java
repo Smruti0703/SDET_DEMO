@@ -6,7 +6,7 @@ public class CreateContactTest {
 	@Test(groups="SmokeTest")
 	public void createContact() {
 		System.out.println("Contact created");
-		System.out.println("create modified");
+		
 	}
 @Test(groups="RegressionTest")
 public void deletecontact() {
