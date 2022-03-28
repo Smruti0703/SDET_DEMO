@@ -6,6 +6,7 @@ public class CreateCampaignTest {
 	@Test(groups="RegressionTest")
 	public void createCampaign() {
 		System.out.println("Campaign created");
+		System.out.println("campaign deleted by gedi");
 	}
 
 }
