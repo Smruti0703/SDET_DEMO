@@ -10,6 +10,7 @@ public class CreateProductTest {
 		System.out.println("product modified");
 		
 		System.out.println("deleted product....");
+		System.out.println("new comment added for print by satyajit");
 	}
 
 	
