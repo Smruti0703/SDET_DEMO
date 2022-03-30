@@ -13,7 +13,7 @@ public class CreateContactTest {
 	}
 @Test(groups="RegressionTest")
 public void deletecontact() {
-	System.out.println("Contact deleted");
+	System.out.println("Contact deleted...");
 }
 	
 	
